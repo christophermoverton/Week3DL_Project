@@ -1,0 +1,4 @@
+# Ignore specific directories even if they contain files
+train/*
+test/*
+keras_tuner/*
