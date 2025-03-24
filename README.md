@@ -25,7 +25,7 @@ The challenge is based on a Kaggle competition, leveraging the PCam dataset, whi
 ```bash
 git clone https://github.com/christophermoverton/Week3DL_Project.git
 cd Week3DL_Project
-
+```
 ---
 
 ### Setting Up the Conda Environment
